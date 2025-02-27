@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "ade14a548bc89db8",
+    "type": "split",
+    "children": [
+      {
+        "id": "afbefc38d4d944ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f744a9d62a3dfb04",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "網站開發/前端技術/HTML.canvas",
+                "viewState": {
+                  "x": 360.9699905661271,
+                  "y": 55.8142798934889,
+                  "zoom": -2.9414585062722676
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "HTML"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f243c7a74494fd4c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "58150dc717fcf2d5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "8f8c0a9a2126582c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "4a258b596cb7ed64",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "72bbb145d1689a65",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "38a9781e365b037a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1d66d139dd60a7c5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "網站開發/前端技術/三大核心/HTML/1.基礎/Test.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "5d26aa5e86ee8a1c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "網站開發/前端技術/三大核心/HTML/1.基礎/Test.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "f61b79e6fdb639c9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "網站開發/前端技術/三大核心/HTML/1.基礎/Test.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f744a9d62a3dfb04",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "網站開發/前端技術/HTML.canvas",
+    "軟體開發/軟體開發工具/Node Package Manager/Yarn.md",
+    "網站開發/前端技術/三大核心/HTML/1.基礎/Test.md",
+    "Tags/#test_text",
+    "網站開發/前端技術/三大核心/HTML/HTML.md",
+    "網站開發/前端技術/三大核心/HTML/1.基礎/1.基礎.md",
+    "網站開發/前端技術/三大核心/HTML/1.基礎/2.HTML Attributes.md",
+    "網站開發/前端技術/三大核心/HTML/1.基礎/1.Document Structure.md",
+    "Tags/Tags.md"
+  ]
+}

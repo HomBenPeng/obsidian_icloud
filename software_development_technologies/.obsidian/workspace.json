@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "f7f2954e189d19cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6e782f3099e4460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3dc19b71e2aac68",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be835257a27ff9e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6405dec96b52af69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3490de91103626a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "921b2e4e83d7859c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "0d1760711b55fa5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          },
+          {
+            "id": "5258699c28b858cf",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "外掛程式已不復活躍"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad2a30dee6e0539a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fe53257a77c2732",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e385994a552942d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "網站開發/前端技術/三大核心/HTML/1.基礎/2.HTML Attributes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2.HTML Attributes 的反向連結"
+            }
+          },
+          {
+            "id": "febb8c2f849a2b83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "網站開發/前端技術/三大核心/HTML/1.基礎/2.HTML Attributes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2.HTML Attributes 的對外連結"
+            }
+          },
+          {
+            "id": "617399c9a19d4613",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "07e42e6b702d2f7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "網站開發/前端技術/三大核心/HTML/1.基礎/2.HTML Attributes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2.HTML Attributes 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "c3dc19b71e2aac68",
+  "lastOpenFiles": [
+    "網站開發/前端技術/三大核心/HTML/1.基礎/2.HTML Attributes.md",
+    "專業知識/網路相關/網路概論（Networking Fundamentals）/硬體（Hardware）/輔助設備/結構化佈線.md",
+    "專業知識/網路相關/網路概論（Networking Fundamentals）/硬體（Hardware）/輔助設備/集線器.md",
+    "網站開發/前端技術/三大核心/HTML/1.基礎/1.基礎.md",
+    "Untitled.md",
+    "網站開發/前端技術/HTML.canvas",
+    "網站開發/前端技術/三大核心/HTML/1.基礎/Test.md",
+    "Tags/#test_text",
+    "網站開發/前端技術/三大核心/HTML/HTML.md",
+    "未命名draggable.md",
+    "Tags/Tags.md",
+    "Tags"
+  ]
+}

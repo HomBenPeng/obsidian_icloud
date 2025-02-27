@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "97797fb6be09ea03",
+    "type": "split",
+    "children": [
+      {
+        "id": "be26086ced8f8a81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f76e8eaa63653f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Object of Transaction/Overview-Object of Transaction.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Overview-Object of Transaction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "832f860997bff86f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f05d7f3a5482cd59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aebee3428550616e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "341827a0cedae017",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "6fbb2237d5054851",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "4ec13bc7d04ac08c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a0b54c03a3d0622",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eefd07d6789dbbd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Object of Transaction/Overview-Object of Transaction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Overview-Object of Transaction 的反向連結"
+            }
+          },
+          {
+            "id": "a3a3fd56aaa38947",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Object of Transaction/Overview-Object of Transaction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Overview-Object of Transaction 的對外連結"
+            }
+          },
+          {
+            "id": "c00becd757157672",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "f10a9ba35dee2a6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Object of Transaction/Overview-Object of Transaction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Overview-Object of Transaction 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "6f76e8eaa63653f7",
+  "lastOpenFiles": [
+    "Object of Transaction/未命名.md",
+    "Object of Transaction/Overview-Object of Transaction.md",
+    "Object of Transaction/Untitled.canvas",
+    "Overview-EugeneStockMarket.md",
+    "Tags",
+    "sortspec.md"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "b93c30f7981cc1e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dfc216aec83af65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e88d8e24a6b5c54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e10085c1df13dd7a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e81308173baf96b8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "76cef31b4fee7a7d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "7252a780400993d0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "84774012476e982d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "1d453b5fc9f582aa",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "48e89b9ee57a8f81",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ee0b429ad305d123",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "sortspec.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b24788d02827b45a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "sortspec.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "b8789baf61a18883",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "sortspec.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5e88d8e24a6b5c54",
+  "lastOpenFiles": [
+    "sortspec.md",
+    "Tags",
+    "Object of Transaction/Stock/Taiwan/S-TW-Pouduct.md",
+    "Object of Transaction/Stock/Taiwan",
+    "Object of Transaction/Stock/America/S-US-Product.md",
+    "Object of Transaction/Stock/America"
+  ]
+}
